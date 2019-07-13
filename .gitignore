@@ -21,3 +21,4 @@ dist
 # Egg metadata
 *.egg-info
 .eggs
+results/
